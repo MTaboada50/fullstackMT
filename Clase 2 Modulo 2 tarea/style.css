@@ -31,17 +31,29 @@
   background-color: red;
   width: 120px;
   height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 
 #c2{
   background-color: blue;
   width: 120px;
   height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 
 #c3{ 
   background-color: green;
   width: 120px;
   height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
 }
 
