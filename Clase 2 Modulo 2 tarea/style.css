@@ -1,0 +1,47 @@
+.ej1{
+  width: 360px;
+  height: 360px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: column;
+  align-items: flex-end;
+  border: 3px solid black;
+}
+
+.ej2{
+  width: 360px;
+  height: 360px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: row-reverse;
+  align-items: center;
+  border: 3px solid black;
+}
+
+.ej3 {
+  width: 720px;
+  height: auto;
+  display: inline-flex;
+  flex-flow: row;
+  justify-content: space-between;
+  border: 3px solid black;
+}
+
+#c1{
+  background-color: red;
+  width: 120px;
+  height: 120px;
+}
+
+#c2{
+  background-color: blue;
+  width: 120px;
+  height: 120px;
+}
+
+#c3{ 
+  background-color: green;
+  width: 120px;
+  height: 120px;
+}
+
